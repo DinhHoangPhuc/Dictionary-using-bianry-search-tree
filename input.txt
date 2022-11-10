@@ -1,0 +1,17 @@
+16
+love#tinh yeu
+hate#ghet
+angry#tuc gian
+hungry#doi bung
+book#quyen sach
+page#trang
+pen#cay but
+tree#cay
+house#ngoi nha
+human#con nguoi
+animal#dong vat
+moon#mat trang
+family#gia dinh
+teacher#co giao
+student#hoc sinh
+dad#ba
